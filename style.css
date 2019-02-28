@@ -1,0 +1,44 @@
+body {
+    font: 13px Helvetica, Sans-Serif;
+    background: url(background.png);
+}
+
+#container {
+    padding: 0 0 0 0
+    width: 700px;
+    margin: 40px auto 60px;
+}
+
+#content-contact {
+    margin: 0 0 16px 0;
+    padding: 0 0 16 0;
+    font-size: 22px;
+    font-weight: bold;
+    letter-spacing: -2px;
+    border-bottom: 1px solid #999;
+}
+
+#content-summary {
+     margin: 0 0 16px 0;
+    padding: 0 0 24px 0;
+    font-style: oblique;
+    font-size: 14px;
+}
+
+#content-professionalheader {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.date {
+    float: right;
+}
+
+h3 {
+    border-bottom: 1px solid #999;
+}
+
+h4 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
